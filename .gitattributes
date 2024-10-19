@@ -1,0 +1,3 @@
+# Smarty のみ言語判定の対象にする
+* linguist-vendored
+*.tpl linguist-vendored=false

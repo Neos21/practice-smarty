@@ -1,0 +1,25 @@
+{
+  "name": "practice-smarty",
+  "description": "Practice Smarty",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/practice-smarty#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/practice-smarty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/practice-smarty/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
+  "dependencies": {
+    "smarty.js": "3.2.0"
+  }
+}
